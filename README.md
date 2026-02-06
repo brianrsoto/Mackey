@@ -1,4 +1,4 @@
-# Mackey - Teclado de Macros Multiperfil Usando un ESP8266
+# Mackey - Teclado de Macros Multiperfil Usando un ESP32
 
 ### Proyecto de teclado de macros programable usando un teclado matricial de 16 teclas, con soporte para múltiples modos (perfiles) y control del sistema mediante Python.
 
